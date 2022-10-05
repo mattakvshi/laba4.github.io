@@ -131,7 +131,7 @@ footer{
 @media screen and (max-width: 600px){
 
     .ht{
-        font-size:350%;
+        font-size:300%;
     }
 
 }
@@ -139,7 +139,7 @@ footer{
 @media screen and (max-width: 540px){
 
     .ht{
-        font-size:300%;
+        font-size:250%;
     }
 
 }
@@ -147,7 +147,7 @@ footer{
 @media screen and (max-width: 480px){
 
     .ht{
-        font-size:250%;
+        font-size:200%;
     }
 
 }
@@ -155,7 +155,7 @@ footer{
 @media screen and (max-width: 420px){
 
     .ht{
-        font-size:200%;
+        font-size:150%;
     }
 
 }
@@ -163,7 +163,7 @@ footer{
 @media screen and (max-width: 360px){
 
     .ht{
-        font-size:150%;
+        font-size:100%;
     }
 
 }
