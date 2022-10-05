@@ -23,13 +23,12 @@ header{
     background-color:#E98074;
     height: 100px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
-    font-family: 'Fredoka One', cursive;
-    font-family: 'Press Start 2P', cursive;
 }
 
 .ht{
     text-align: center;
     font-size: 400%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  
 }
 
 .conURLS{
