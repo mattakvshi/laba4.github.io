@@ -23,11 +23,11 @@ header{
     background-color:#E98074;
     height: 100px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Press Start 2P', cursive;
 }
 
 .ht{
-    font-family: 'Fredoka One', cursive;
-    font-family: 'Press Start 2P', cursive;
     text-align: center;
     font-size: 400%;
 }
